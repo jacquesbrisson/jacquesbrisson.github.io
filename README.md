@@ -1,4 +1,4 @@
-Jacques Brisson
+<H1>Jacques Brisson</H1>
 system/solution architect
 email address: jacques.brisson@gmail.com
 location: Montreal, Canada
